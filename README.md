@@ -41,9 +41,13 @@ python simple_calculator.py
 📌 Example Output
 
 ...!!SIMPLE CALCULATOR!!...
+
 Enter number 1: 10
+
 Enter any one operation (+,-,*,/): *
+
 Enter number 2: 5
+
 Multiplication of 10 and 5 = 50
 
 🎯 Learning Goals
