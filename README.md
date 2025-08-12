@@ -31,7 +31,7 @@ simple_calculator.py
 
 Clone the Repository
 
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/ReyathBegam/SimpleCalculator.git
 cd simple-calculator
 
 Run the Script
